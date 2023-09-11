@@ -1,16 +1,31 @@
-### Hi there 👋
+# Meowdy, Partner
+I'm Claire, a gal from Colorado who likes computers.
 
-<!--
-**clairrorism/clairrorism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Likes 😊
+- Programming
+- Tech
+- Gaming
+- Linux
+- Learning
+- Cute things
+- Purple
+- Vim motions
+- Women
 
-Here are some ideas to get you started:
+## Dislikes 🤬
+- Emacs users
+- League players
+- People who like C# formatting (Psychopaths)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I Know
+- HTML/CSS/TypeScript
+- A bit of React
+- A bit of C++
+- A bit of Go
+- Lua
+- A good amount of Rust
+- How to read docs
+
+## Other Cool Stuff
+[My Goals](GOALS.md)
+[My Blog](clairrorism.github.io/blog)
