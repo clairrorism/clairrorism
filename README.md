@@ -27,5 +27,5 @@ I'm Claire, a gal from Colorado who likes computers.
 - How to read docs
 
 ## Other Cool Stuff
-[My Goals](GOALS.md)
-[My Blog](clairrorism.github.io/blog)
+- [My Goals](GOALS.md)
+- [My Blog](clairrorism.github.io/blog)
