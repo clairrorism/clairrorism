@@ -2,30 +2,17 @@
 I'm Claire, a gal from Colorado who likes computers.
 
 ## Likes 😊
-- Programming
-- Tech
-- Gaming
-- Linux
-- Learning
-- Cute things
-- Purple
-- Vim motions
-- Women
+- Coding
+- Femboys
+- Tomboys
 
 ## Dislikes 🤬
-- Emacs users
-- League players
-- People who like C# formatting (Psychopaths)
+- Emacs users (redditers but 90 years old)
+- League of Legends players (redditers)
+- People who like C# formatting (psychopaths)
 
 ## Things I Know
 - HTML/CSS/TypeScript
-- A bit of React
-- A bit of C++
-- A bit of Go
-- Lua
-- A good amount of Rust
-- How to read docs
-
-## Other Cool Stuff
-- [My Goals](GOALS.md)
-- [My Blog](clairrorism.github.io/blog)
+- Rust
+- Python
+- That I'm hot and funny and cool and sexy
